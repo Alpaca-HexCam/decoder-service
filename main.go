@@ -48,7 +48,7 @@ func init() {
 		// If field is empty it equals to "https://api.telegram.org".
 		// URL: "http://195.129.111.17:8012",
 
-		Token:  "1543761153:AAHDfF3uE7jPyJq1AW32SKOdTOJDTZXU4Ng",
+		Token:  "1373983436:AAH0e6ZzWlbgrdtGXZY2hemDVXmZzIkojxc",
 		Poller: &tb.LongPoller{Timeout: 10 * time.Second},
 	})
 
